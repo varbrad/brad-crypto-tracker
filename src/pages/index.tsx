@@ -1,5 +1,7 @@
 import { NextPage } from 'next'
 
-const IndexPage: NextPage = () => <p>Hello</p>
+const IndexPage: NextPage = () => {
+  return <p>Hello</p>
+}
 
 export default IndexPage
